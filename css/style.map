@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".footer {\n margin-top: 60px;\n background-color: #131313;\n padding: 59px 0;\n color: #666666; }\n.footer-policy-link {\n font-size: 12px; }\n.footer p {\n margin-bottom: 12px; }\n.footer a {\n color: #666666;\n text-decoration: none; }\n.footer a:hover {\n color: #fff; }\n.footer small {\n display: block;\n margin-top: 56px;\n line-height: 16px;\n font-size: 10px;\n max-width: 80%; }\n.footer ul {\n padding: 0;\n list-style: none; }\n.footer ul {\n  li {\n   line-height: 32px; } }\n.footer-contacts, .footer-social-links {\n text-align: right; }\n.footer-contacts_phone {\n font-weight: 400;\n font-size: 20px;\n color: #009adf; }\n.footer-social-links li {\n display: inline-block; }\n.footer-social-links li {\n  a {\n   display: inline-block;\n   width: 42px;\n   height: 42px;\n   background-color: rgba(255, 255, 255, 0.1);\n   text-align: center;\n   border-radius: 50%;\n   line-height: 42px;\n   margin-left: 10px;\n   -weebkit-transition: all 0.2s;\n   transition: all 0.2s; } }\n.footer-social-links li {\n  a:hover {\n   background-color: rgba(255, 255, 255, 0.9); } }\n"
+	],
+	"names": [],
+	"mappings": ";;AAAA,AAAA,OAAO,CAAC;EACP,UAAU,EAAE,IAAI;EAChB,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,MAAM;EACf,KAAK,EAAE,OAAO;CAAG;;;AAClB,AAAA,mBAAmB,CAAC;EACnB,SAAS,EAAE,IAAI;CAAG;;;AACnB,AAAA,OAAO,CAAC,CAAC,CAAC;EACT,aAAa,EAAE,IAAI;CAAG;;;AACvB,AAAA,OAAO,CAAC,CAAC,CAAC;EACT,KAAK,EAAE,OAAO;EACd,eAAe,EAAE,IAAI;CAAG;;;AACzB,AAAA,OAAO,CAAC,CAAC,AAAA,MAAM,CAAC;EACf,KAAK,EAAE,IAAI;CAAG;;;AACf,AAAA,OAAO,CAAC,KAAK,CAAC;EACb,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,IAAI;EACf,SAAS,EAAE,GAAG;CAAG;;;AAClB,AAAA,OAAO,CAAC,EAAE,CAAC;EACV,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,IAAI;CAAG;;;AACpB,AACE,OADK,CAAC,EAAE,CACR,EAAE,CAAC;EACF,WAAW,EAAE,IAAI;CAAG;;;AACvB,AAAA,gBAAgB,EAAE,oBAAoB,CAAC;EACtC,UAAU,EAAE,KAAK;CAAG;;;AACrB,AAAA,sBAAsB,CAAC;EACtB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;CAAG;;;AAClB,AAAA,oBAAoB,CAAC,EAAE,CAAC;EACvB,OAAO,EAAE,YAAY;CAAG;;;AACzB,AACE,oBADkB,CAAC,EAAE,CACrB,CAAC,CAAC;EACD,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,wBAAwB;EAC1C,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,GAAG;EAClB,WAAW,EAAE,IAAI;EACjB,WAAW,EAAE,IAAI;EACjB,mBAAmB,EAAE,QAAQ;EAC7B,UAAU,EAAE,QAAQ;CAAG;;;AAC1B,AACE,oBADkB,CAAC,EAAE,CACrB,CAAC,AAAA,MAAM,CAAC;EACP,gBAAgB,EAAE,wBAAwB;CAAG"
+}
